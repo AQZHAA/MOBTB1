@@ -8,7 +8,6 @@
 
 /* Begin PBXFileReference section */
 		C72C24632CD67AAA00CC7C9D /* TB 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TB 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C7ED848D2CD7D3BC00379586 /* TB 1.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "TB 1.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -42,13 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				C72C24632CD67AAA00CC7C9D /* TB 1.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		C7ED848E2CD7D3BC00379586 /* Products */ = {
-			isa = PBXGroup;
-			children = (
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -105,12 +97,6 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = C72C24642CD67AAA00CC7C9D /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = C7ED848E2CD7D3BC00379586 /* Products */;
-					ProjectRef = C7ED848D2CD7D3BC00379586 /* TB 1.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				C72C24622CD67AAA00CC7C9D /* TB 1 */,
